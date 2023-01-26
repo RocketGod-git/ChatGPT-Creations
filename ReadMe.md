@@ -6,7 +6,7 @@ More info can be found at <a href="https://openai.com/api/">https://openai.com/a
 Nothing has been tested. Nothing has been verified. This is for educational use to see how AI can be used and misused.<br>
 <br>
 Please contribute bu submitting pull requests. Feel free to add categories.<br>
-<be>
+<br>
 **RocketGod**
 <br>
 <a href="https://discord.gg/8k5ecSyXmG">Discord</a><br>
